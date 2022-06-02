@@ -1,6 +1,7 @@
 # Degree
-- degree: This is a merge conflict example  
-  uni: This is another changed thing
-  year: June, 2014 &mdash; January, 2017
-  # awards:
-  # summary: We have updated this file in order to crete a merge conflict 
+- degree: Full Stack Webdeveloper Nanodegree
+  uni: Udacity
+  year: June, 2014 &mdash; January, 2015
+  awards: Most Dedicated Student per Optional Activities Completed
+  summary: Spent 6 dedicated months working 12 hour days to build out multiple real world apps and websites.
+
